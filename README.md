@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Shinthi%20Tasnim&fontAlign=55&descSize=40)
+
 <h1 align="center">Hi 👋 I'm Shinthi</h1>
 
 <p align="center">
